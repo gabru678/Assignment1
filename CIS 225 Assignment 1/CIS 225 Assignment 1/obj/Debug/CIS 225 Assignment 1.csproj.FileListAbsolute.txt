@@ -4,3 +4,6 @@ c:\users\administrator\documents\visual studio 2013\Projects\CIS 225 Assignment 
 c:\users\administrator\documents\visual studio 2013\Projects\CIS 225 Assignment 1\CIS 225 Assignment 1\obj\Debug\CIS 225 Assignment 1.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2013\Projects\CIS 225 Assignment 1\CIS 225 Assignment 1\obj\Debug\CIS 225 Assignment 1.exe
 c:\users\administrator\documents\visual studio 2013\Projects\CIS 225 Assignment 1\CIS 225 Assignment 1\obj\Debug\CIS 225 Assignment 1.pdb
+O:\Documents\GIT\Assignment1\CIS 225 Assignment 1\CIS 225 Assignment 1\bin\Debug\CIS 225 Assignment 1.exe.config
+O:\Documents\GIT\Assignment1\CIS 225 Assignment 1\CIS 225 Assignment 1\obj\Debug\CIS 225 Assignment 1.exe
+O:\Documents\GIT\Assignment1\CIS 225 Assignment 1\CIS 225 Assignment 1\obj\Debug\CIS 225 Assignment 1.pdb

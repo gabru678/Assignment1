@@ -45,6 +45,7 @@ namespace CIS_225_Assignment_1
             return base.ToString();
         }
 
+        // have to add a mtehod to find one that the user wanted
 
         // Now we need out constructor
 
