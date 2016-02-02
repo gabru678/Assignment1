@@ -7,3 +7,6 @@ c:\users\administrator\documents\visual studio 2013\Projects\CIS 225 Assignment 
 O:\Documents\GIT\Assignment1\CIS 225 Assignment 1\CIS 225 Assignment 1\bin\Debug\CIS 225 Assignment 1.exe.config
 O:\Documents\GIT\Assignment1\CIS 225 Assignment 1\CIS 225 Assignment 1\obj\Debug\CIS 225 Assignment 1.exe
 O:\Documents\GIT\Assignment1\CIS 225 Assignment 1\CIS 225 Assignment 1\obj\Debug\CIS 225 Assignment 1.pdb
+C:\Users\Administrator\Documents\GITCIS225\Assignment1\CIS 225 Assignment 1\CIS 225 Assignment 1\bin\Debug\CIS 225 Assignment 1.exe.config
+C:\Users\Administrator\Documents\GITCIS225\Assignment1\CIS 225 Assignment 1\CIS 225 Assignment 1\obj\Debug\CIS 225 Assignment 1.exe
+C:\Users\Administrator\Documents\GITCIS225\Assignment1\CIS 225 Assignment 1\CIS 225 Assignment 1\obj\Debug\CIS 225 Assignment 1.pdb

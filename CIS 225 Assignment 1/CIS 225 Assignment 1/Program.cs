@@ -16,12 +16,29 @@ namespace CIS_225_Assignment_1
 
             // Assuming GetUserInput returns an integer of input
             // Well it still wants an integer?
-            // Kind of Lost at this stage
-            if (UserIn = 1)
+            // Needed an extra = so it wasnt an assignment
+            if (UserIn == 1)
             {
+                // reading in the .CSV file
+                // Find it using ../../../datafiles
+            }
+            else if (UserIn == 2)
+            {
+                // add to the list
+                // use a method created in the WineItemCollection
+            }
+            else if (UserIn == 3)
+            {
+                // loop through the array by the first index of a newly created WineItem with the input
+                // as the first index and when they == each other
+                // print out that array
+            }
+            else if (UserIn == 4)
+            {
+                Environment.Exit(0);
+            }
 
-            } 
-            else if ()
+
         }
     }
 }
